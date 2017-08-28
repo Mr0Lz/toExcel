@@ -4,7 +4,7 @@
 使用:    
 1.先引入js文件
 
-    <script type="text/javascript" src="toExcel.js"></script>    
+        <script type="text/javascript" src="toExcel.js"></script>    
 2.在表格外面设置一个容器包裹
 
         <div id="myDiv">  
