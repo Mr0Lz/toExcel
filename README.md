@@ -12,8 +12,8 @@
         </table>
     </div>
     
-3.使用toExcel
-    var excel=new ToExcel({fileName:"LALALA.xls"});//设置文件名
-        excel.method("myDiv");//获取容器的div做为参数
+3.使用toExcel    
+var excel=new ToExcel({fileName:"LALALA.xls"});//设置文件名    
+    excel.method("myDiv");//获取容器的div做为参数
         
 
